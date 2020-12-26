@@ -3,7 +3,7 @@
 	<head>
 		<title>祝母校十周年生日快乐！</title>
 	</head>
-	<body style="background-color: burlywood;">
+	<body style="background-color: burlywood; id="b.html">
 	<p>
 		<img border="0" src="/图片/绵实牛9.jpg" style="width: 600px;margin-left: 350px;"/><br/>
 		<img border="0" src="/图片/绵实牛13.jpg" style="width: 600px;"/>
